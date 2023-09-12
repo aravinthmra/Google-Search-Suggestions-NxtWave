@@ -1,0 +1,10 @@
+.fillArrow-image1 {
+  width: 32px;
+  height: 32px;
+}
+.list-element1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
